@@ -69,14 +69,7 @@ print(BMI)
 var <- 4
 print(var)
 rm(var)
+print("error")
 print(var) # returns error
-
-
-# All the variables can be deleted by using the rm() and ls() function together.
-rm(list = ls())
-print(ls())
-
-# Operators
-
-# 1. Arithmetic Operators
+print("error")
 
